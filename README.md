@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **student00saurabh/student00saurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+### Hi there 👋 I'm Saurabh
+- 🌱 I’m currently learning Web Development & DSA
+- 🚀 Projects: VirtualAchievers, StayBuddy, FlatFam
+- 📫 Reach me: saurabh@example.com | [Instagram](https://instagram.com/yourhandle)
+
+#### 🛠️ Tech Stack:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+...
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
