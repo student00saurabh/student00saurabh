@@ -1,72 +1,111 @@
-# Hi there! I'm Saurabh Mishra 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Saurabh Mishra
 
-### Full-Stack Developer | Software Engineer | Java & MERN Stack Developer
+<h3 align="center">
+🚀 Software Engineer | Java Full Stack Developer | MERN Stack Developer
+</h3>
 
-I'm a Computer Science graduate passionate about building scalable web applications, solving real-world problems, and continuously learning new technologies. I enjoy developing full-stack applications, working on REST APIs, and creating responsive user experiences.
-
----
-
-![](https://komarev.com/ghpvc/?username=student00saurabh&label=Profile%20Views&color=0e75b6&style=flat)
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech in Computer Science & Engineering (AKTU)
-- 💼 Full-Stack Developer with internship and real-world project experience
-- 🌱 Currently exploring **Java Spring Boot**, **System Design**, and **Cloud Technologies**
-- 💻 Passionate about Java, MERN Stack, REST APIs, and Backend Development
-- 📫 Email: **saurabhmishra1599@gmail.com**
-- 🌐 Portfolio: **https://student00saurabh.github.io/portfolio/**
-- 💼 LinkedIn: **https://linkedin.com/in/saurabhmishra1599**
-- 💬 Ask me about **Java, JavaScript, React, Node.js, Express, MongoDB, MySQL**
+<p align="center">
+Building scalable web applications • Java • React • Node.js • MongoDB
+</p>
 
 ---
 
-# 🚀 Tech Stack
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=student00saurabh&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/student00saurabh?label=Followers&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/student00saurabh?affiliations=OWNER&style=for-the-badge"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 **B.Tech Computer Science & Engineering Graduate**
+
+💼 Passionate Full Stack Developer with experience building modern web applications.
+
+🌱 Currently Learning
+
+- Spring Boot
+- System Design
+- Cloud Computing
+- Advanced Java
+
+💬 Ask me about
+
+- Java
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+
+🚀 Looking for opportunities as
+
+- Software Engineer
+- Java Developer
+- Full Stack Developer
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://student00saurabh.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/saurabhmishra1599/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:saurabhmishra230139@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="mailto:student001599@gmail.com">
+<img src="https://img.shields.io/badge/Alternate_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,c,html,css,python" />
+<img src="https://skillicons.dev/icons?i=java,js,c,python,html,css"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,ejs,vite" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,ejs,vite"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-### Tools & Platforms
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 </p>
-
----
-
-# 💼 Experience
-
-### Full Stack Developer
-**Akkorent Pvt. Ltd.**
-- Developed responsive web applications using React, Node.js, Express, and MongoDB.
-- Worked on authentication, REST APIs, dashboards, responsive UI, and bug fixing.
-- Collaborated using Git and GitLab.
-
-### Web Development Intern
-**Dreamvessels Technology Pvt. Ltd.**
-- Developed an E-Commerce website for mobile skins.
-- Worked with HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB.
 
 ---
 
@@ -74,118 +113,108 @@ I'm a Computer Science graduate passionate about building scalable web applicati
 
 ## 📚 TheCubicals
 
-A modern blogging platform built using
-
-- Node.js
-- Express.js
-- MongoDB Atlas
-- EJS
-- Bootstrap
-- Passport.js
-- Cloudinary
-
-### Features
+Modern Blogging Platform
 
 - Google Authentication
 - Email OTP Verification
 - Password Reset
-- Admin Dashboard
-- Rich Blog Editor
+- Cloudinary Integration
 - SEO Optimized
-- Dynamic Sitemap
+- Admin Dashboard
 - Responsive Design
+
+**Tech**
+
+Node.js • Express.js • MongoDB • EJS • Bootstrap • Passport.js
 
 ---
 
 ## 💬 ChatRoom
 
-Real-time group chat application.
+Real-time Chat Application
 
-**Tech Stack**
-
-- Node.js
-- Express.js
 - Socket.IO
-- MongoDB
-- EJS
-
-### Features
-
-- Live Messaging
-- User Authentication
+- Authentication
 - Multiple Chat Rooms
-- Responsive Interface
+- Live Messaging
 
 ---
 
 ## 🎬 AlphaMovies
 
-Movie search application using React and OMDB API.
+Movie Discovery Application
 
-### Features
-
-- Search Movies
-- Movie Details
+- React
+- OMDB API
 - Responsive UI
-- API Integration
+- Dynamic Search
 
 ---
 
 ## 🌍 Wanderlust
 
-Travel & Stay Explorer web application.
+Travel & Stay Explorer
 
-### Features
-
-- Property Listings
 - Authentication
 - Reviews
 - CRUD Operations
-- Image Uploads
+- Image Upload
 
 ---
 
 ## 🔗 TinyLinks
 
-A URL shortening platform.
+URL Shortener
 
-### Features
-
-- URL Shortener
-- Analytics
 - Authentication
 - Dashboard
+- Analytics
 
 ---
 
-## 📂 File Reader App (PWA)
+## 📂 File Reader PWA
 
-A Progressive Web App capable of opening files directly on the device.
+Offline File Reader
 
-### Features
+Supports
 
-- Works Offline
-- Installable
-- Supports Images
+- Images
 - Videos
 - PDFs
-- Java Files
-- JavaScript Files
+- DOCX
+- PPT
+- TXT
 - HTML
 - CSS
-- JSON
+- Java
+- JavaScript
 - Python
-- Text Files
-- No Upload Required
+- JSON
+
+No Upload Required
+
+Works Offline
+
+Installable PWA
 
 ---
 
-# 📊 GitHub Stats
+# 🏆 GitHub Achievements
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=student00saurabh&show_icons=true&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=student00saurabh&theme=onedark&no-frame=true&row=2&column=4"/>
+</p>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=student00saurabh&theme=tokyonight" />
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=student00saurabh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=student00saurabh&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -193,40 +222,92 @@ A Progressive Web App capable of opening files directly on the device.
 # 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student00saurabh&layout=compact&theme=tokyonight" />
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=student00saurabh&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🏆 Achievements
+# 📉 Contribution Graph
 
-- ✅ Built multiple full-stack production-ready applications
-- ✅ Internship experience in Full Stack Development
-- ✅ Strong foundation in Java, DSA, OOP, DBMS
-- ✅ Experience with REST APIs and Authentication
-- ✅ Git & GitHub Version Control
-- ✅ Responsive UI Development
+<p align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=student00saurabh&theme=tokyo-night&hide_border=true"/>
 
-# 🌐 Connect With Me
-
-<p>
-<a href="https://linkedin.com/in/saurabhmishra1599">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:saurabhmishra1599@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/student00saurabh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 </p>
 
 ---
 
-> **"First, solve the problem. Then, write the code." – John Johnson**
+# ⚡ GitHub Summary Cards
 
-⭐ If you like my work, don't forget to star my repositories!
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=student00saurabh&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💼 Experience
+
+### Full Stack Developer
+
+**Akkorent Pvt. Ltd.**
+
+- Developed responsive web applications
+- Built REST APIs
+- Worked on Authentication
+- React + Node.js + MongoDB
+- GitLab Collaboration
+
+---
+
+### Web Development Intern
+
+**Dreamvessels Technology Pvt. Ltd.**
+
+- Developed E-Commerce Website
+- Bootstrap
+- Express.js
+- MongoDB
+
+---
+
+# 📚 Currently Learning
+
+✔ Spring Boot
+
+✔ System Design
+
+✔ Microservices
+
+✔ Docker
+
+✔ AWS Basics
+
+---
+
+# 🎯 2026 Goals
+
+- ⭐ Crack an SDE Role
+- ⭐ Master Spring Boot
+- ⭐ Learn AWS
+- ⭐ Solve 500+ DSA Problems
+- ⭐ Build SaaS Products
+
+---
+
+# ☕ Fun Fact
+
+> I love turning ideas into real-world web applications and continuously improving my problem-solving skills.
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my projects, don't forget to ⭐ star the repositories.
+
+</p>
