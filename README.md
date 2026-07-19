@@ -1,77 +1,232 @@
-### Hi there! I'm Saurabh Mishra 👋
+# Hi there! I'm Saurabh Mishra 👋
 
-🚀 A passionate Full-Stack Web Developer & CSE student at IEC College, Greater Noida.
+### Full-Stack Developer | Software Engineer | Java & MERN Stack Developer
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=student00saurabh&label=Profile%20views&color=0e75b6&style=flat)
-
-### 📌 About Me
-- 🎓 B.Tech CSE | 3rd Year @ IEC College of Engineering & Technology
-- 💻 Developer of [FriendZone](#) – A social platform to connect
-- 💬 Let’s chat on my [Chat Room App](#)
-- 🌱 Currently building: **VirtualAchievers** – Study resources for learners
-- 📫 Reach me at: `saurabhmishra1599@gmail.com`
-- 🌐 Portfolio: [Coming Soon]
+I'm a Computer Science graduate passionate about building scalable web applications, solving real-world problems, and continuously learning new technologies. I enjoy developing full-stack applications, working on REST APIs, and creating responsive user experiences.
 
 ---
 
-### 🛠️ Languages & Tools
+![](https://komarev.com/ghpvc/?username=student00saurabh&label=Profile%20Views&color=0e75b6&style=flat)
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering (AKTU)
+- 💼 Full-Stack Developer with internship and real-world project experience
+- 🌱 Currently exploring **Java Spring Boot**, **System Design**, and **Cloud Technologies**
+- 💻 Passionate about Java, MERN Stack, REST APIs, and Backend Development
+- 📫 Email: **saurabhmishra1599@gmail.com**
+- 🌐 Portfolio: **https://student00saurabh.github.io/portfolio/**
+- 💼 LinkedIn: **https://linkedin.com/in/saurabhmishra1599**
+- 💬 Ask me about **Java, JavaScript, React, Node.js, Express, MongoDB, MySQL**
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,nodejs,express,mongodb,ejs,react,github,git,cpp,python,vscode" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=java,js,c,html,css,python" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,ejs,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=student00saurabh&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=student00saurabh&theme=radical" />
+# 💼 Experience
+
+### Full Stack Developer
+**Akkorent Pvt. Ltd.**
+- Developed responsive web applications using React, Node.js, Express, and MongoDB.
+- Worked on authentication, REST APIs, dashboards, responsive UI, and bug fixing.
+- Collaborated using Git and GitLab.
+
+### Web Development Intern
+**Dreamvessels Technology Pvt. Ltd.**
+- Developed an E-Commerce website for mobile skins.
+- Worked with HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB.
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 TheCubicals
+
+A modern blogging platform built using
+
+- Node.js
+- Express.js
+- MongoDB Atlas
+- EJS
+- Bootstrap
+- Passport.js
+- Cloudinary
+
+### Features
+
+- Google Authentication
+- Email OTP Verification
+- Password Reset
+- Admin Dashboard
+- Rich Blog Editor
+- SEO Optimized
+- Dynamic Sitemap
+- Responsive Design
+
+---
+
+## 💬 ChatRoom
+
+Real-time group chat application.
+
+**Tech Stack**
+
+- Node.js
+- Express.js
+- Socket.IO
+- MongoDB
+- EJS
+
+### Features
+
+- Live Messaging
+- User Authentication
+- Multiple Chat Rooms
+- Responsive Interface
+
+---
+
+## 🎬 AlphaMovies
+
+Movie search application using React and OMDB API.
+
+### Features
+
+- Search Movies
+- Movie Details
+- Responsive UI
+- API Integration
+
+---
+
+## 🌍 Wanderlust
+
+Travel & Stay Explorer web application.
+
+### Features
+
+- Property Listings
+- Authentication
+- Reviews
+- CRUD Operations
+- Image Uploads
+
+---
+
+## 🔗 TinyLinks
+
+A URL shortening platform.
+
+### Features
+
+- URL Shortener
+- Analytics
+- Authentication
+- Dashboard
+
+---
+
+## 📂 File Reader App (PWA)
+
+A Progressive Web App capable of opening files directly on the device.
+
+### Features
+
+- Works Offline
+- Installable
+- Supports Images
+- Videos
+- PDFs
+- Java Files
+- JavaScript Files
+- HTML
+- CSS
+- JSON
+- Python
+- Text Files
+- No Upload Required
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=student00saurabh&show_icons=true&theme=tokyonight" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=student00saurabh&theme=tokyonight" />
 </p>
 
 ---
 
-### 📈 Top Languages
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student00saurabh&layout=compact&theme=tokyonight" />
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student00saurabh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌟 Projects & Highlights
-#### 🔹 FriendZone – Social Media for Friendly Connections
-![FriendZone Logo](https://raw.githubusercontent.com/student00saurabh/assets/main/friendzone_logo.png)
-A creative and friendly zone for people to chat and connect.
+# 🏆 Achievements
 
-#### 🔹 Real-time Chat Room App
-![Chat Room Screenshot](https://raw.githubusercontent.com/student00saurabh/assets/main/chatroom_screenshot.png)
-Let your ideas connect – real-time chat application using **Socket.IO + MongoDB + EJS**.
-
-#### 🔹 Personal Portfolio (Coming Soon)
-Will showcase my journey, skills, resume, and major works!
+- ✅ Built multiple full-stack production-ready applications
+- ✅ Internship experience in Full Stack Development
+- ✅ Strong foundation in Java, DSA, OOP, DBMS
+- ✅ Experience with REST APIs and Authentication
+- ✅ Git & GitHub Version Control
+- ✅ Responsive UI Development
 
 ---
 
-### 📷 Glimpse
-![Saurabh Mishra](https://raw.githubusercontent.com/student00saurabh/assets/main/profile_pic.jpg)
+# 🌐 Connect With Me
 
----
-
-### 🌐 Let's Connect
 <p>
-  <a href="https://www.linkedin.com/in/saurabhmishra1599" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="https://instagram.com/saurabhmishra1599" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:saurabhmishra1599@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
-  </a>
+<a href="https://linkedin.com/in/saurabhmishra1599">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:saurabhmishra1599@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/student00saurabh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
 
-> "Code is poetry. Build with passion."
+> **"First, solve the problem. Then, write the code." – John Johnson**
 
-Thanks for visiting 🚀✨
+⭐ If you like my work, don't forget to star my repositories!
